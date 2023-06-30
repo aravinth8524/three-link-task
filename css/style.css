@@ -1,0 +1,34 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	min-height:100vh;
+}
+section{
+	margin: 3em;
+    display: flex;
+    border-radius: 5px;
+    width: fit-content;
+    overflow: hidden;
+}
+a{
+	text-decoration:none;
+	padding: 8px 15px;
+}
+.left{
+	background-color:rgb(220,54,72);
+	color:white;
+	
+}
+.middle{
+	background-color:rgb(255,187,8);
+	color:black;
+
+}
+.right{
+	background-color:rgb(24,135,86);
+	color:white;
+	
+}
